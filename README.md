@@ -1,4 +1,4 @@
-# Magical Mushrooms – Blender Animation 🍄✨
+<img width="936" height="859" alt="image" src="https://github.com/user-attachments/assets/11dab9d6-4a38-4c5a-a275-0ce21efadd00" /># Magical Mushrooms – Blender Animation 🍄
 
 This project is a 3D animated scene created using Blender as part of a Computer Graphics university course.
 
@@ -15,3 +15,6 @@ All steps were created and explained step by step during the project process.
 ## 🎓 Academic Context
 This project was developed as a final project for the Computer Graphics course.
 
+## 📷 Screenshots
+### Final Render
+![Magical Mushrooms Render](0151.jpg)
