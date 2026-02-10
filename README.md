@@ -3,7 +3,7 @@
 This project is a 3D animated scene created using Blender as part of a Computer Graphics university course.
 
 ## 🎬 Render Video
-👉 [Watch the render video here]((https://drive.google.com/file/d/1yZ8VbIiILhUUjxv3hcgEYAOZn8mn76ur/view?usp=sharing))
+👉 [Watch the render video here](https://drive.google.com/file/d/1yZ8VbIiILhUUjxv3hcgEYAOZn8mn76ur/view?usp=sharing)
 
 ## 🛠 Tools Used
 - Blender
